@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou iniciando a área de programação, ano que vem iniciarei o curso de engenharia de software<br>Sou curiosa, organizada e focada no que quero<br>Adoro pessoas com mentes criativas dispostas a novos desafios
+Estou iniciando a área de programação, ano que vem iniciarei o curso de engenharia de software<br>Sou curiosa, organizada e focada no que quero<br>Adoro pessoas com mentes criativas dispostas a novos desafios assim como eu
 
 
 # 💻 Tech Stack:
